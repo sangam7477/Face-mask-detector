@@ -1,0 +1,18 @@
+
+{
+  "architecture": "mobilenetv2",
+  "image_size": [
+    224,
+    224
+  ],
+  "labels": [
+    "with_mask",
+    "without_mask"
+  ],
+  "dataset_counts": {
+    "with_mask": 690,
+    "without_mask": 686
+  },
+  "final_train_accuracy": 0.9863760471343994,
+  "final_val_accuracy": 0.9890909194946289
+}
