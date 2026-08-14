@@ -141,14 +141,6 @@ Flask provides the web interface through which the face mask detection system ca
 * A screenshot is automatically saved when a **No Mask** violation is detected.
 * Screenshot capture is controlled by a cooldown to prevent excessive duplicate screenshots.
 
-## 🛠️ Technologies Used
-
-* **Python**
-* **OpenCV**
-* **TensorFlow / Keras**
-* **Flask**
-* **NumPy**
-* **HTML/CSS** for the web interface
 
 ## 🎯 Use Cases
 
